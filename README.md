@@ -9,27 +9,27 @@ Two travelers · Munich and Stuttgart · All times local
 
 ## Before Departure
 
-**Departure: Saturday, November 7. Preparation schedule begins Thursday evening, November 5.**
+**Updated Friday, November 6. Departure: tomorrow, Saturday, November 7.**
 
-### Thursday Evening
+### Today · Friday, November 6
 
 - [ ] Reserve [Neuschwanstein](https://shop.ticket-center-hohenschwangau.de/) for **Monday, November 9, around 12:30–1 PM**, preferably an English-language tour.
-- [ ] Reserve [Avis Munich Hauptbahnhof](https://www.avis.com/en/locations/eur/de/munich/mk8) for **Monday, November 9, at 8 AM**. Confirm price, manual transmission, winter tires, mileage, additional-driver fee and Friday-return terms.
-- [ ] Verify [passport validity](https://bundespolizei.de/en/border-control/general-information-on-border-control): issued within the previous ten years and valid for at least three months after departure from Germany.
+- [ ] Reserve [Avis Munich Hauptbahnhof](https://www.avis.com/en/locations/eur/de/munich/mk8) for **Monday, November 9, at 8 AM**. Confirm price, manual transmission, winter tires, mileage, additional-driver fee, deposit/payment requirements and Friday-return terms.
 - [ ] Confirm the full Adamstraße address, check-in/out times for the other stays and accommodation parking. Notify the first host of the **November 8 arrival around 3:30–4 PM**, no later than November 7.
 
-### Friday
-
-- [x] **Obtain Nathan's IDP — completed November 6, 2026.** Pack it with the physical US driver's license. Any additional driver's documents remain to be confirmed if they will drive.
-- [ ] Confirm Venture X rental coverage, CDW/LDW requirements, included Avis liability coverage and deposit/payment requirements.
 - [ ] Purchase museum admission if desired: [BMW · Tuesday](https://tkts.bmw-welt.com/en/articles?type=museum_admission), [Porsche · Wednesday](https://www.porsche.com/international/aboutporsche/porschemuseum/openinghoursandprices/), [Mercedes-Benz · Thursday](https://museum-ticket.mercedes-benz.com/visit-planning/find/mainCategory/Museumsbesuch). Review Porsche ticket flexibility because Wednesday includes a drive. Factory tours require separate reservations.
 - [ ] Complete [Discover Airlines check-in](https://www.discover-airlines.com/us/en/my-bookings/check-in/online-check-in) when available: normally **Friday, November 6, at approximately 3:20 PM Orlando time**, 30 hours before departure. Confirm seats, baggage allowance and terminal; the operating flight is **4Y081**.
 - [ ] Arrange mobile data, airport transport/parking and payment cards; complete packing.
 
-### Saturday
+### Tomorrow · Saturday, November 7
 
 - [ ] Download boarding passes, reservations, host instructions and offline maps; charge devices.
 - [ ] Check passports, driving documents, payment cards and medication before leaving. Target **MCO arrival at 6:20 PM**.
+
+### Completed
+
+- [x] **Nathan's IDP obtained — November 6, 2026.** Pack it with the physical US driver's license.
+- [x] **Rental insurance decision handled.** Proceeding with existing coverage as directed by Nathan; coverage terms have not been independently confirmed.
 
 Optional palace/tower tickets, café choices and Thursday's Tübingen decision can remain flexible.
 
