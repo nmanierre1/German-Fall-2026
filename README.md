@@ -29,7 +29,6 @@ Two travelers · Munich and Stuttgart · All times local
 ### Completed
 
 - [x] **Nathan's IDP obtained — November 6, 2026.** Pack it with the physical US driver's license.
-- [x] **Rental insurance decision handled.** Proceeding with existing coverage as directed by Nathan; coverage terms have not been independently confirmed.
 
 Optional palace/tower tickets, café choices and Thursday's Tübingen decision can remain flexible.
 
