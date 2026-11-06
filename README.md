@@ -20,7 +20,15 @@ Two travelers · Munich and Stuttgart · All times local
 
 ### Friday
 
-- [ ] **Arrange driving documents for each driver:** physical US license **plus an IDP or an accepted German translation**. See [driving-document requirements](#driving-documents) below.
+- [ ] **Get the IDP at AAA on Friday.** Each intended driver needs their own permit. Bring:
+  - **Physical US driver's license**
+  - **AAA membership card**
+  - **Payment card** for the **$20 permit fee**, plus any applicable tax or photo charge
+  - Completed [IDP application](https://www.aaa.com/vacation/idpf.html), preferably printed in advance
+
+  **Photos:** AAA Melbourne offers passport photos; eligible Plus/Premier benefits may cover the photo charge. Confirm the membership tier and available benefit. **A passport is not required for this application.**
+
+  **Location:** [AAA Melbourne](https://locator.acg.aaa.com/fl/melbourne/aaa-melbourne), **4100 N Wickham Road, Suite 101**. Published Friday hours: **8:30 AM–5:30 PM; closed Saturday**. Call **(321) 253-9100** before visiting to confirm same-day IDP and photo service. See [driving-document requirements](#driving-documents) for the translation alternative.
 - [ ] Confirm Venture X rental coverage, CDW/LDW requirements, included Avis liability coverage and deposit/payment requirements.
 - [ ] Purchase museum admission if desired: [BMW · Tuesday](https://tkts.bmw-welt.com/en/articles?type=museum_admission), [Porsche · Wednesday](https://www.porsche.com/international/aboutporsche/porschemuseum/openinghoursandprices/), [Mercedes-Benz · Thursday](https://museum-ticket.mercedes-benz.com/visit-planning/find/mainCategory/Museumsbesuch). Review Porsche ticket flexibility because Wednesday includes a drive. Factory tours require separate reservations.
 - [ ] Complete [Discover Airlines check-in](https://www.discover-airlines.com/us/en/my-bookings/check-in/online-check-in) when available: normally **Friday, November 6, at approximately 3:20 PM Orlando time**, 30 hours before departure. Confirm seats, baggage allowance and terminal; the operating flight is **4Y081**.
