@@ -3,7 +3,7 @@
 **November 7–14, 2026**
 
 Two travelers · Munich and Stuttgart · All times local  
-**Confirmed:** flights and accommodation. **Pending confirmation:** rental reservation and attraction tickets.
+**Confirmed:** flights, accommodation and Nathan's IDP (obtained November 6). **Pending confirmation:** rental reservation and attraction tickets.
 
 [Before Departure](#before-departure) · [Daily Itinerary](#daily-itinerary) · [Trip Checklist](#trip-checklist) · [Packing List](#packing-list) · [Sightseeing Index](#sightseeing-index-by-city)
 
@@ -20,15 +20,7 @@ Two travelers · Munich and Stuttgart · All times local
 
 ### Friday
 
-- [ ] **Get the IDP at AAA on Friday.** Each intended driver needs their own permit. Bring:
-  - **Physical US driver's license**
-  - **AAA membership card**
-  - **Payment card** for the **$20 permit fee**, plus any applicable tax or photo charge
-  - Completed [IDP application](https://www.aaa.com/vacation/idpf.html), preferably printed in advance
-
-  **Photos:** AAA Melbourne offers passport photos; eligible Plus/Premier benefits may cover the photo charge. Confirm the membership tier and available benefit. **A passport is not required for this application.**
-
-  **Location:** [AAA Melbourne](https://locator.acg.aaa.com/fl/melbourne/aaa-melbourne), **4100 N Wickham Road, Suite 101**. Published Friday hours: **8:30 AM–5:30 PM; closed Saturday**. Call **(321) 253-9100** before visiting to confirm same-day IDP and photo service. See [driving-document requirements](#driving-documents) for the translation alternative.
+- [x] **Obtain Nathan's IDP — completed November 6, 2026.** Pack it with the physical US driver's license. Any additional driver's documents remain to be confirmed if they will drive.
 - [ ] Confirm Venture X rental coverage, CDW/LDW requirements, included Avis liability coverage and deposit/payment requirements.
 - [ ] Purchase museum admission if desired: [BMW · Tuesday](https://tkts.bmw-welt.com/en/articles?type=museum_admission), [Porsche · Wednesday](https://www.porsche.com/international/aboutporsche/porschemuseum/openinghoursandprices/), [Mercedes-Benz · Thursday](https://museum-ticket.mercedes-benz.com/visit-planning/find/mainCategory/Museumsbesuch). Review Porsche ticket flexibility because Wednesday includes a drive. Factory tours require separate reservations.
 - [ ] Complete [Discover Airlines check-in](https://www.discover-airlines.com/us/en/my-bookings/check-in/online-check-in) when available: normally **Friday, November 6, at approximately 3:20 PM Orlando time**, 30 hours before departure. Confirm seats, baggage allowance and terminal; the operating flight is **4Y081**.
@@ -200,9 +192,7 @@ Optional palace/tower tickets, café choices and Thursday's Tübingen decision c
 
 ### Driving Documents
 
-An **IDP is not the only accepted option**. Germany's [Federal Transport Ministry](https://www.bmv.de/SharedDocs/EN/Articles/StV/Roadtraffic/validity-foreign-driving-licences-in-germany.html?editorSupport=true) describes the translation requirement for foreign licenses; the United States is not among its listed translation exemptions. [Avis Germany's published terms](https://production.rent-at-avis.com/avisonline/terms.nsf/TermsByCountryAndLngCategories/DE-GB-Common) require a non-European license holder renting outside the issuing country to present the original license with **an IDP or an official German translation by a notary**. A US license alone should therefore not be assumed sufficient for this rental.
-
-**Local IDP option:** [AAA Melbourne](https://locator.acg.aaa.com/fl/melbourne/aaa-melbourne), 4100 N Wickham Road, Suite 101 · (321) 253-9100. Published Friday hours: **8:30 AM–5:30 PM; closed Saturday**. Call to confirm service. Bring a valid license, application, two passport photos or arrange photos at the branch, and the **$20 permit fee**, plus any photo charge. [AAA application](https://www.aaa.com/vacation/idpf.html); in-person issuance is [typically same-day](https://www.aaa.com/tripcanvas/article/how-and-why-to-get-an-international-driving-permit-from-aaa-CM203).
+**Nathan's IDP was obtained November 6, 2026.** Carry the original IDP together with the physical US driver's license when collecting and driving the rental. An IDP does not replace the license. Confirm the required documents for any additional driver before they drive.
 
 ### Electrical Supply
 
@@ -229,7 +219,7 @@ Germany's nominal supply is **230 V, 50 Hz**, with Type C/F plugs. A device labe
 ### Documents and Payment
 
 - [ ] Passport
-- [ ] Physical driver's license and required IDP or accepted translation
+- [ ] Physical driver's license and IDP (obtained; pack both)
 - [ ] Payment cards and debit-card PIN
 - [ ] Flight, accommodation, rental and attraction confirmations
 
