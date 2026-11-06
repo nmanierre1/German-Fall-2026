@@ -5,7 +5,7 @@
 Two travelers · Munich and Stuttgart · All times local  
 **Confirmed:** flights and accommodation. **Pending confirmation:** rental reservation and attraction tickets.
 
-[Before Departure](#before-departure) · [Daily Itinerary](#daily-itinerary) · [Trip Checklist](#trip-checklist) · [Packing List](#packing-list)
+[Before Departure](#before-departure) · [Daily Itinerary](#daily-itinerary) · [Trip Checklist](#trip-checklist) · [Packing List](#packing-list) · [Sightseeing Index](#sightseeing-index-by-city)
 
 ## Before Departure
 
@@ -244,3 +244,60 @@ Germany's nominal supply is **230 V, 50 Hz**, with Type C/F plugs. A device labe
 - [ ] Small day bag, reusable water bottle and compact umbrella
 
 Keep documents, medication and essential electronics in hand luggage. Power banks must remain in carry-on baggage; check [FAA guidance](https://www.faa.gov/hazmat/packsafe/lithium-batteries) and the operating airline's rules.
+
+## Sightseeing Index by City
+
+Research links for the places named in the itinerary. **Optional** visits depend on time, weather or the selected afternoon plan.
+
+### Munich
+
+- [BMW Museum](https://tkts.bmw-welt.com/en/articles?type=museum_admission)
+- [BMW Welt](https://www.bmw-welt.com/en/index.html)
+- [Marienplatz](https://www.google.com/maps/search/?api=1&query=Marienplatz%20M%C3%BCnchen)
+- [Frauenkirche](https://www.google.com/maps/search/?api=1&query=Frauenkirche%20M%C3%BCnchen)
+- [Munich Residenz](https://www.residenz-muenchen.de/englisch/tourist/opening.htm) — optional interior visit
+- [Odeonsplatz](https://www.google.com/maps/search/?api=1&query=Odeonsplatz%20M%C3%BCnchen)
+- [Maxvorstadt](https://www.google.com/maps/search/?api=1&query=Maxvorstadt%20M%C3%BCnchen) — neighborhood walk
+- [Schwabing](https://www.google.com/maps/search/?api=1&query=Schwabing%20M%C3%BCnchen) — final-evening neighborhood option
+
+**Coffee options:** [Kanso](https://kansocoffeelab.com/pages/locations), [Humpback Whale](https://humpbackwhalecoffee.com/our-location), [Suuapinga](https://suuapinga.com/), [South Bank](https://www.google.com/maps/search/?api=1&query=South%20Bank%20specialty%20coffee%20Munich).
+
+### Hohenschwangau / Schwangau
+
+- [Neuschwanstein Castle](https://www.neuschwanstein.de/englisch/tourist/opening.htm) — guided interior tour
+- [Marienbrücke](https://www.google.com/maps/search/?api=1&query=Marienbr%C3%BCcke%20Neuschwanstein) — optional viewpoint; only if open
+- [Alpsee](https://www.google.com/maps/search/?api=1&query=Alpsee%20Hohenschwangau) — optional short lakeside stop
+
+### Füssen
+
+- [Füssen Old Town](https://www.google.com/maps/search/?api=1&query=F%C3%BCssen%20Altstadt)
+- [Lech riverside](https://www.google.com/maps/search/?api=1&query=Lech%20F%C3%BCssen) — short walk if time permits
+
+### Ulm
+
+- [Ulm Minster / Ulmer Münster](https://www.ulmer-muenster.de/besuchen/oeffnungszeiten) — church interior; tower climb optional
+- [Ulm Rathaus](https://www.google.com/maps/search/?api=1&query=Rathaus%20Ulm) — exterior
+- [Fishermen’s Quarter / Fischerviertel](https://www.google.com/maps/search/?api=1&query=Fischerviertel%20Ulm)
+
+### Stuttgart
+
+- [Porsche Museum](https://www.porsche.com/international/aboutporsche/porschemuseum/openinghoursandprices/)
+- [Mercedes-Benz Museum](https://www.mercedes-benz.com/en/art-and-culture/museum/visitor-information/)
+- [Stuttgart-West](https://www.google.com/maps/search/?api=1&query=Stuttgart%20West) — accommodation neighborhood and dinner
+- [Schillerplatz](https://www.google.com/maps/search/?api=1&query=Schillerplatz%20Stuttgart) — city-afternoon option
+- [Stiftskirche](https://www.google.com/maps/search/?api=1&query=Stiftskirche%20Stuttgart) — city-afternoon option
+- [Schlossplatz](https://www.google.com/maps/search/?api=1&query=Schlossplatz%20Stuttgart) — city-afternoon option
+
+**Coffee options:** [Abnorm](https://abnorm.space/pages/contact), [Jules](https://www.google.com/maps/search/?api=1&query=Jules%20coffee%20Stuttgart), [Knits](https://www.google.com/maps/search/?api=1&query=Knits%20coffee%20Stuttgart) — confirm the intended “Knits” venue; it has not been identified conclusively.
+
+### Tübingen — Optional Thursday Excursion
+
+- [Tübingen Old Town](https://www.google.com/maps/search/?api=1&query=T%C3%BCbingen%20Altstadt)
+- [Neckar waterfront](https://www.google.com/maps/search/?api=1&query=Neckarfront%20T%C3%BCbingen)
+- [Marktplatz](https://www.google.com/maps/search/?api=1&query=Marktplatz%20T%C3%BCbingen)
+
+### Nördlingen
+
+- [Medieval town wall / Stadtmauer](https://www.google.com/maps/search/?api=1&query=Stadtmauer%20N%C3%B6rdlingen) — walk part of the wall
+- [Nördlingen Old Town](https://www.google.com/maps/search/?api=1&query=N%C3%B6rdlingen%20Altstadt)
+- [Market Square / Marktplatz](https://www.google.com/maps/search/?api=1&query=Marktplatz%20N%C3%B6rdlingen)
