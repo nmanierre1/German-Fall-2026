@@ -11,18 +11,18 @@ Two travelers · Munich and Stuttgart · All times local
 
 **Departure Saturday, November 7.**
 
-- [ ] Reserve [Neuschwanstein](https://shop.ticket-center-hohenschwangau.de/) for **Monday, November 9, around 12:30–1 PM**, preferably an English-language tour.
 - [ ] Confirm the full Adamstraße address, check-in/out times for the other stays and accommodation parking. Notify the first host of the **November 8 arrival around 3:30–4 PM**, no later than November 7.
 
 - [ ] Purchase museum admission if desired: [BMW · Tuesday](https://tkts.bmw-welt.com/en/articles?type=museum_admission), [Porsche · Wednesday](https://www.porsche.com/international/aboutporsche/porschemuseum/openinghoursandprices/), [Mercedes-Benz · Thursday](https://museum-ticket.mercedes-benz.com/visit-planning/find/mainCategory/Museumsbesuch). Review Porsche ticket flexibility because Wednesday includes a drive. Factory tours require separate reservations.
-- [ ] Complete [Discover Airlines check-in](https://www.discover-airlines.com/us/en/my-bookings/check-in/online-check-in) for **4Y081**. Confirm seats, baggage allowance and terminal.
+- [ ] Confirm seats, baggage allowance and terminal for outbound flight **4Y081**.
 - [ ] Arrange mobile data, airport transport/parking and payment cards; complete packing.
 
-- [ ] Download boarding passes, reservations, host instructions and offline maps; charge devices.
+- [ ] Download reservations, host instructions and offline maps. Charge devices.
 - [ ] Check passports, driving documents, payment cards and medication before leaving. Target **MCO arrival at 6:20 PM**.
 
 ### Completed
 
+- [x] **Nathan checked in for UA9667 / 4Y081 and has his outbound boarding pass.**
 - [x] **Europcar booked through Expedia.** See pickup, return and payment details below.
 - [x] **Nathan's IDP obtained — November 6, 2026.** Pack it with the physical US driver's license.
 
@@ -79,7 +79,7 @@ Optional palace/tower tickets, café choices and Thursday's Tübingen decision c
 | **8–8:40 AM** | Collect and inspect the Europcar rental at Marsstraße 24 | — |
 | 8:40–10:45 AM | Drive to [Hohenschwangau](https://www.google.com/maps/search/?api=1&query=Hohenschwangau%20Germany) · allow 2–2¼ hours **plus the roadwork buffer below** | Driving |
 | 10:45 AM–12:30 PM | [Park in the village](https://www.hohenschwangau.de/en/visitor-information/local-map-and-parking), [walk up](https://www.hohenschwangau.de/en/visitor-information/how-to-reach-the-castles) and allow time for entry | Walking |
-| **12:30–1 PM target** | [**Neuschwanstein English tour**](https://shop.ticket-center-hohenschwangau.de/) · exact time subject to the purchased ticket | Walking |
+| **1:05 PM target** | [**Neuschwanstein audio tour**](https://shop.ticket-center-hohenschwangau.de/) if two tickets are available. Booking deferred | Walking |
 | After tour–2 PM | Views and walk down; Marienbrücke only if open | Walking |
 | 2–4 PM | [Füssen](https://www.google.com/maps/search/?api=1&query=F%C3%BCssen%20Altstadt%20Germany): late lunch, old town and a short riverside walk | Driving / walking |
 | 4–6:15 PM | Drive back to Munich | Driving |
@@ -167,6 +167,7 @@ Optional palace/tower tickets, café choices and Thursday's Tübingen decision c
 
 ## Trip Checklist
 
+- [ ] Monday at **8 AM Munich time**, check the [official Neuschwanstein ticket shop](https://shop.ticket-center-hohenschwangau.de/) for two tickets. Target the **1:05 PM audio tour** if available.
 - [ ] Optional before pickup, complete Europcar’s online check-in from the Expedia confirmation email.
 - [ ] Select Tuesday's afternoon visit and Thursday's Tübingen or Stuttgart option.
 - [ ] Confirm café branches/hours, especially “Knits,” Jules, Suuapinga and South Bank.
