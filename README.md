@@ -3,31 +3,27 @@
 **November 7–14, 2026**
 
 Two travelers · Munich and Stuttgart · All times local  
-**Confirmed:** flights, accommodation and Nathan's IDP (obtained November 6). **Pending confirmation:** rental reservation and attraction tickets.
+**Confirmed:** flights, accommodation, Europcar rental and Nathan's IDP (obtained November 6). **Pending confirmation:** attraction tickets.
 
 [Before Departure](#before-departure) · [Daily Itinerary](#daily-itinerary) · [Trip Checklist](#trip-checklist) · [Packing List](#packing-list) · [Sightseeing Index](#sightseeing-index-by-city)
 
 ## Before Departure
 
-**Updated Friday, November 6. Departure: tomorrow, Saturday, November 7.**
-
-### Today · Friday, November 6
+**Departure Saturday, November 7.**
 
 - [ ] Reserve [Neuschwanstein](https://shop.ticket-center-hohenschwangau.de/) for **Monday, November 9, around 12:30–1 PM**, preferably an English-language tour.
-- [ ] Reserve [Avis Munich Hauptbahnhof](https://www.avis.com/en/locations/eur/de/munich/mk8) for **Monday, November 9, at 8 AM**. Confirm price, manual transmission, winter tires, mileage, additional-driver fee, deposit/payment requirements and Friday-return terms.
 - [ ] Confirm the full Adamstraße address, check-in/out times for the other stays and accommodation parking. Notify the first host of the **November 8 arrival around 3:30–4 PM**, no later than November 7.
 
 - [ ] Purchase museum admission if desired: [BMW · Tuesday](https://tkts.bmw-welt.com/en/articles?type=museum_admission), [Porsche · Wednesday](https://www.porsche.com/international/aboutporsche/porschemuseum/openinghoursandprices/), [Mercedes-Benz · Thursday](https://museum-ticket.mercedes-benz.com/visit-planning/find/mainCategory/Museumsbesuch). Review Porsche ticket flexibility because Wednesday includes a drive. Factory tours require separate reservations.
-- [ ] Complete [Discover Airlines check-in](https://www.discover-airlines.com/us/en/my-bookings/check-in/online-check-in) when available: normally **Friday, November 6, at approximately 3:20 PM Orlando time**, 30 hours before departure. Confirm seats, baggage allowance and terminal; the operating flight is **4Y081**.
+- [ ] Complete [Discover Airlines check-in](https://www.discover-airlines.com/us/en/my-bookings/check-in/online-check-in) for **4Y081**. Confirm seats, baggage allowance and terminal.
 - [ ] Arrange mobile data, airport transport/parking and payment cards; complete packing.
-
-### Tomorrow · Saturday, November 7
 
 - [ ] Download boarding passes, reservations, host instructions and offline maps; charge devices.
 - [ ] Check passports, driving documents, payment cards and medication before leaving. Target **MCO arrival at 6:20 PM**.
 
 ### Completed
 
+- [x] **Europcar booked through Expedia.** See pickup, return and payment details below.
 - [x] **Nathan's IDP obtained — November 6, 2026.** Pack it with the physical US driver's license.
 
 Optional palace/tower tickets, café choices and Thursday's Tübingen decision can remain flexible.
@@ -47,9 +43,9 @@ Optional palace/tower tickets, café choices and Thursday's Tübingen decision c
 | Nov 11–13 · 2 nights | [Augustenstraße 102, 70197 Stuttgart](https://www.google.com/maps/search/?api=1&query=Augustenstra%C3%9Fe%20102%2070197%20Stuttgart%20Germany) | To be confirmed |
 | Nov 13–14 · 1 night | [Kaulbachstraße 42, 80539 Munich](https://www.google.com/maps/search/?api=1&query=Kaulbachstra%C3%9Fe%2042%2080539%20M%C3%BCnchen%20Germany) | Times to confirm |
 
-**Rental pickup:** Monday Nov 9, **8 AM**, [Avis München Hauptbahnhof](https://www.avis.com/en/locations/eur/de/munich/mk8), [**Seidlstraße 2a, Munich**](https://www.google.com/maps/search/?api=1&query=Avis%20Seidlstra%C3%9Fe%202a%20M%C3%BCnchen). Planned category: compact manual; exact model is not guaranteed.  
-**Quoted rental:** $249.47 total / about $124.74 each, for Nov 9 at 8 AM through Nov 14 at 8 AM. Reservation not yet confirmed.  
-**Preferred return:** same branch Friday Nov 13, around **4:30 PM**, subject to Avis confirmation of early-return terms. Alternative: the quoted Saturday Nov 14, 8 AM return, followed by travel to the airport.
+**Rental confirmed through Expedia.** Europcar compact manual (VW Golf or similar), with unlimited mileage.  
+**Pick up and return the car** at Europcar, [Marsstraße 24, 80335 Munich](https://www.google.com/maps/search/?api=1&query=Europcar%20Marsstra%C3%9Fe%2024%2080335%20M%C3%BCnchen). Pick up **Monday, Nov 9 at 8 AM** and return **Saturday, Nov 14 at 8 AM**.  
+**$263.96 is due at pickup**, including taxes and fees ($131.98 per person).
 
 ## Daily Itinerary
 
@@ -79,8 +75,8 @@ Optional palace/tower tickets, café choices and Thursday's Tübingen decision c
 
 | Time | Plan | Travel Mode |
 | --- | --- | --- |
-| 7–7:40 AM | Breakfast and travel to Avis | Walking / public transit |
-| 8–8:40 AM | Collect and inspect rental | — |
+| Around 7:40 AM | Leave for Europcar after breakfast. Allow 15–20 minutes on foot | Walking |
+| **8–8:40 AM** | Collect and inspect the Europcar rental at Marsstraße 24 | — |
 | 8:40–10:45 AM | Drive to [Hohenschwangau](https://www.google.com/maps/search/?api=1&query=Hohenschwangau%20Germany) · allow 2–2¼ hours **plus the roadwork buffer below** | Driving |
 | 10:45 AM–12:30 PM | [Park in the village](https://www.hohenschwangau.de/en/visitor-information/local-map-and-parking), [walk up](https://www.hohenschwangau.de/en/visitor-information/how-to-reach-the-castles) and allow time for entry | Walking |
 | **12:30–1 PM target** | [**Neuschwanstein English tour**](https://shop.ticket-center-hohenschwangau.de/) · exact time subject to the purchased ticket | Walking |
@@ -153,31 +149,30 @@ Optional palace/tower tickets, café choices and Thursday's Tübingen decision c
 | 10:30 AM–1 PM | Walk part of [Nördlingen’s medieval town wall](https://www.google.com/maps/search/?api=1&query=Stadtmauer%20N%C3%B6rdlingen), explore the center and have lunch | Walking |
 | 1–3:30 PM | Drive to Munich, allowing for traffic | Driving |
 | Around 3:30 PM | Drop bags/check in at Kaulbachstraße 42 if available | Driving / walking |
-| **Around 4:30 PM** | Refuel and return Avis rental, subject to confirmed arrangements | Driving / walking |
+| Late afternoon | Refuel and park near the accommodation overnight | Driving / walking |
 | Evening | Final Munich dinner and walk in Maxvorstadt / Schwabing | Walking |
 
 **Coffee:** [Humpback Whale](https://humpbackwhalecoffee.com/our-location) if time permits before its 6 PM closing.  
-**Return backup:** Avis advertises 24-hour returns, subject to confirmation of the exact garage/key-drop instructions. Staffed Friday hours end at 5 PM. Overnight parking is required if retaining the vehicle until Saturday.  
 **Sleep:** Munich · Kaulbachstraße 42. **Driving:** about 4–5 hours including city travel and refueling.
 
 ### Saturday, November 14 · Fly home
 
 | Time | Plan | Travel Mode |
 | --- | --- | --- |
-| Around 9:30–10 AM | Leave accommodation for [Munich Airport](https://www.munich-airport.com/); [check the actual route](https://www.mvv-muenchen.de/en/) the night before | Public transit or taxi |
+| **8 AM** | Return the car to Europcar at Marsstraße 24 | Driving |
+| After the return | Travel to [Munich Airport](https://www.munich-airport.com/). [Check the route](https://www.mvv-muenchen.de/en/) Friday night | Public transit or taxi |
 | **11:20 AM target** | Arrive at the airport, three hours before departure | Walking |
 | **2:20 PM** | Depart MUC · UA9668 / 4Y080 | Flight |
 | **7:25 PM** | Arrive Orlando | Flight / walking |
 
-**If returning the car Saturday:** return downtown at 8 AM, then travel to the airport. Confirm branch access and allow time for the return.
-
 ## Trip Checklist
 
+- [ ] Optional before pickup, complete Europcar’s online check-in from the Expedia confirmation email.
 - [ ] Select Tuesday's afternoon visit and Thursday's Tübingen or Stuttgart option.
 - [ ] Confirm café branches/hours, especially “Knits,” Jules, Suuapinga and South Bank.
-- [ ] At pickup: confirm authorized drivers, photograph vehicle condition and obtain return-garage/key-drop instructions.
+- [ ] At pickup, confirm winter tires and any additional driver, photograph the car and get return instructions.
 - [ ] Check castle weather and road conditions before Monday; confirm legal parking when you arrive.
-- [ ] Friday: refuel/return the car if arranged, then check Saturday's airport route.
+- [ ] Friday, refuel and confirm overnight parking and Saturday’s airport route.
 
 ## Practical Information
 
@@ -206,12 +201,12 @@ Germany's nominal supply is **230 V, 50 Hz**, with Type C/F plugs. A device labe
 | Porsche | [Hours, prices and tickets](https://www.porsche.com/international/aboutporsche/porschemuseum/openinghoursandprices/) |
 | Mercedes-Benz | [Visitor information](https://www.mercedes-benz.com/en/art-and-culture/museum/visitor-information/) · [Tickets](https://museum-ticket.mercedes-benz.com/visit-planning/find/mainCategory/Museumsbesuch) |
 | Munich Residenz / Ulm | [Residenz hours](https://www.residenz-muenchen.de/englisch/tourist/opening.htm) · [Ulm Minster hours](https://www.ulmer-muenster.de/besuchen/oeffnungszeiten) |
-| Rental | [Avis Munich Hauptbahnhof](https://www.avis.com/en/locations/eur/de/munich/mk8) |
+| Rental | [Europcar Munich, Marsstraße 24](https://www.europcar.com/en-am/places/car-rental-germany/muenchen/munich-city-nearby-mainstation) |
 | Parking | [Munich Marsfeld map](https://muenchenunterwegs.de/downloads/Parklizenzgebiete/Stadtteile/Maxvorstadt/Einzel%C3%BCbersicht/Marsfeld.pdf) · [Stuttgart rules](https://www.stuttgart.de/parken) · [Tübingen garage](https://www.swtue.de/parken/parkhaeuser/neckar-parkhaus.html) |
 | Munich transport | [MVV journey planner](https://www.mvv-muenchen.de/en/) |
 | Coffee | [Kanso](https://kansocoffeelab.com/pages/locations) · [Humpback Whale](https://humpbackwhalecoffee.com/our-location) · [Abnorm](https://abnorm.space/pages/contact) |
 
-*Flight times and first-stay check-in/out are confirmed by the travelers. Activity times are proposed; ticket availability, other accommodation times and the rental reservation remain subject to confirmation.*
+*Flight times, first-stay check-in and checkout, and the rental booking are confirmed. Activity times are proposed. Ticket availability and the other accommodation times still need confirmation.*
 
 ## Packing List
 
